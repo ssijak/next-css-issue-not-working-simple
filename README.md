@@ -1,4 +1,4 @@
-# 🧁 Vanilla Extract + App Directory
+# 🧁 Vanilla Extract + App Directory issue demo
 
 A [Next.js](https://nextjs.org/docs/app/building-your-application/styling/css-in-js) app directory implementation using [Vanilla Extract](https://vanilla-extract.style/)
 
